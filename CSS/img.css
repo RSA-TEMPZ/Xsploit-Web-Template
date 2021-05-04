@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.BAN {
+    width: 100%;
+    height: 600px;
+    background-image: url("https://cdn.discordapp.com/attachments/813629656468815886/838833543823491072/Banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.size-of-logo {
+    float: left;
+    width: 180px;
+    height: 80px;
+}
+
+.img-update {
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.down {
+    width: 140px;
+    height: 140px;
+}
+
+.down3 {
+    width: 140px;
+    height: 140px;
+}
+
+.img {
+    margin-top: 30px;
+    margin-left: -400px;
+}
+
+.img2 {
+    margin-top: 30px;
+}
