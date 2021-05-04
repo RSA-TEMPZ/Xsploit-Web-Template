@@ -1,0 +1,30 @@
+.nav {
+    margin-left: 130px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    display: block;
+    font-weight: bold;
+    color: white;
+    transition: color .15s;
+    font-size: 20px;
+    padding: 34px 14px;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: rgb(3, 169, 244);
+}

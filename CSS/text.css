@@ -1,0 +1,34 @@
+p1 {
+    color: white;
+    font-size: large;
+    font-weight: 800;
+    font-family: Muli, Helvetica, Arial, sans-serif;
+}
+
+p2 {
+    color: white;
+    font-size: medium;
+    font-weight: 300;
+    font-family: Muli, Helvetica, Arial, sans-serif;
+}
+
+p3 {
+    font-family: sans-serif;
+    color: white;
+    font-size: 50px;
+}
+
+.down2 {
+    margin-top: -10px;
+    margin-left: 20px;
+}
+
+.text1 {
+    margin-left: 55px;
+    margin-top: 10px;
+}
+
+.text1-bottom {
+    margin-left: -50px;
+    width: 200px;
+}

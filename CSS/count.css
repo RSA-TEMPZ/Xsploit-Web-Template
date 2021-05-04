@@ -1,0 +1,47 @@
+p3::after {
+    content: counter(count);
+    animation-iteration-count: 1;
+    animation: counter 1s;
+    counter-reset: count 1000;
+}
+
+@keyframes counter {
+    0% {
+        counter-increment: count -999;
+    }
+    10% {
+        counter-increment: count -953;
+    }
+    20% {
+        counter-increment: count -924;
+    }
+    30% {
+        counter-increment: count -853;
+    }
+    40% {
+        counter-increment: count -763;
+    }
+    50% {
+        counter-increment: count -652;
+    }
+    60% {
+        counter-increment: count -435;
+    }
+    70% {
+        counter-increment: count -320;
+    }
+    80% {
+        counter-increment: count -102;
+    }
+    90% {
+        counter-increment: count -80;
+    }
+    100% {
+        counter-increment: count -50;
+    }
+}
+
+.POS-COUNT {
+    margin-left: 15px;
+    margin-top: -60px;
+}
